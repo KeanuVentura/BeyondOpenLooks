@@ -16,7 +16,7 @@ Are prolific scorers like Kevin Durant, Stephen Curry, and Klay Thompson elite s
 
 
 
-### 2024-25 Season: Shot Quality vs Actual eFG% and Gap
+### Shot Quality vs Actual eFG% and Gap for Selected Players 2024-25 Season
 
 <div style="width: 100vw; position: relative; left: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box;">
   <iframe
@@ -29,6 +29,16 @@ Are prolific scorers like Kevin Durant, Stephen Curry, and Klay Thompson elite s
 <div style="width: 100vw; position: relative; left: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box;">
   <iframe
     src="{{ site.baseurl }}/img/all_players_scatter.html"
+    style="display: block; margin: 0 auto; max-width: 1000px; width: 100%; height: 700px; border: none;"
+    title="Interactive Shot Quality Plot">
+  </iframe>
+</div>
+
+### Shot Quality vs Actual eFG% and Gap for Klay Thompson All Seasons
+
+<div style="width: 100vw; position: relative; left: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box;">
+  <iframe
+    src="{{ site.baseurl }}/img/klay_season_bar.html"
     style="display: block; margin: 0 auto; max-width: 1000px; width: 100%; height: 700px; border: none;"
     title="Interactive Shot Quality Plot">
   </iframe>
