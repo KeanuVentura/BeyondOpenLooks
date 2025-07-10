@@ -40,7 +40,7 @@ Are prolific scorers like Kevin Durant, Stephen Curry, and Klay Thompson elite s
   <iframe
     src="{{ site.baseurl }}/img/klay_season_bar.html"
     style="display: block; margin: 0 auto; max-width: 1000px; width: 100%; height: 700px; border: none;"
-    title="Interactive Shot Quality Plot">
+    title="Klay Thompson Shot Quality by Season">
   </iframe>
 </div>
 
