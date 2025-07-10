@@ -34,7 +34,7 @@ Are prolific scorers like Kevin Durant, Stephen Curry, and Klay Thompson elite s
   </iframe>
 </div>
 
-### Per Season: Klay Thompson's Shot Quality vs Actual eFG% and Gap
+### Klay Thompson: Shot Quality vs Actual eFG% and Gap Over the Last 5 Seasons
 
 <div style="width: 100vw; position: relative; left: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box;">
   <iframe
