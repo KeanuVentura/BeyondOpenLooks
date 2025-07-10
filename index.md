@@ -6,8 +6,7 @@ author: Keanu Ventura
 background: /img/header.jpg
 ---
 
-# Welcome to Beyond Open Looks
+# Beyond Open Looks: What Makes an NBA Shooter Truly Elite?
 
 Discover my in-depth analysis on NBA shooting metrics and player comparisons.
 
-[Read the full article here](/posts/your-article-file-name) 
