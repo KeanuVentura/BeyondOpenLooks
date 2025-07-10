@@ -26,6 +26,14 @@ Are prolific scorers like Kevin Durant, Stephen Curry, and Klay Thompson elite s
   </iframe>
 </div>
 
+<div style="width: 100vw; position: relative; left: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box;">
+  <iframe
+    src="{{ site.baseurl }}/img/all_players_scatter.html"
+    style="display: block; margin: 0 auto; max-width: 1000px; width: 100%; height: 700px; border: none;"
+    title="Interactive Shot Quality Plot">
+  </iframe>
+</div>
+
 
 ### Kevin Durant Game Highlights
 
