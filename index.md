@@ -6,7 +6,7 @@ permalink: /
 background: /img/header.jpg
 ---
 
-# What Makes an NBA Shooter Truly Elite?
+# What Makes an NBA Shooter Elite?
 
 Discover my in-depth analysis on NBA shooting metrics and player comparisons.
 
