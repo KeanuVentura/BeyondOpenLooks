@@ -1,6 +1,7 @@
 ---
-layout: home
-title: Beyond Open Looks
+layout: page
+title: "Beyond Open Looks"
+permalink: /
 background: /img/header.jpg
 ---
 
