@@ -14,7 +14,7 @@ start
 
 ### 2024-25 Season: Shot Quality vs Actual eFG% and Gap
 
-<div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; transform: translateX(0); padding: 2rem 0;">
+<div style="width: 100vw; max-width: 1200px; margin: 2rem auto; padding: 0 1rem;">
   <iframe 
     src="{{ site.baseurl }}/img/all_players_bar.html"
     width="100%" 
