@@ -10,19 +10,22 @@ background: /img/header.jpg
 
 ### by: Keanu Ventura
 
-start
+
+Are prolific scorers like Kevin Durant, Stephen Curry, and Klay Thompson elite shooters because they get great looks, or because they consistently make tough shots and outperform shot quality metrics?
+
+
+
 
 ### 2024-25 Season: Shot Quality vs Actual eFG% and Gap
 
-<div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; transform: translateX(0); padding: 2rem 0;">
-  <iframe 
+<div style="width: 100vw; position: relative; left: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box;">
+  <iframe
     src="{{ site.baseurl }}/img/all_players_bar.html"
-    width="100%" 
-    height="700" 
-    style="border: none; display: block;"
+    style="display: block; margin: 0 auto; max-width: 1000px; width: 100%; height: 700px; border: none;"
     title="Interactive Shot Quality Plot">
   </iframe>
 </div>
+
 
 ### Kevin Durant Game Highlights
 
