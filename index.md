@@ -10,10 +10,7 @@ background: /img/header.jpg
 
 ### by: Keanu Ventura
 
-Discover my in-depth analysis on NBA shooting metrics and player comparisons.
-
-
-## 2024-25 Season: Shot Quality vs Actual eFG% and Gap
+start
 
 **2024-25 Season: Shot Quality vs Actual eFG% and Gap**
 
