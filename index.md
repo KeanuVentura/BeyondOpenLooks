@@ -12,6 +12,11 @@ background: /img/header.jpg
 
 Discover my in-depth analysis on NBA shooting metrics and player comparisons.
 
+
+## 2024-25 Season: Shot Quality vs Actual eFG% and Gap
+
+**2024-25 Season: Shot Quality vs Actual eFG% and Gap**
+
 <div style="text-align:center; margin: 2em 0;">
   <iframe 
     src="/BeyondOpenLooks/img/all_players_bar.html" 
@@ -21,5 +26,3 @@ Discover my in-depth analysis on NBA shooting metrics and player comparisons.
     title="Interactive Shot Quality Bar Chart">
   </iframe>
 </div>
-
-please
