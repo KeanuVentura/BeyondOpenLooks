@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Beyond Open Looks"
-permalink: /
 author: Keanu Ventura
+permalink: /
 background: /img/header.jpg
 ---
 
