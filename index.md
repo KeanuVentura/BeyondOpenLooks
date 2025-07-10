@@ -2,6 +2,7 @@
 layout: page
 title: "Beyond Open Looks"
 permalink: /
+author: Keanu Ventura
 background: /img/header.jpg
 ---
 
