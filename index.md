@@ -100,7 +100,7 @@ words words
 
 ### 2024-25 Season: Shooting Metrics Durant vs Curry vs NBA League Average
 
-<div style="position: relative; width: 100vw; left: 60%; right: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box; background: transparent;">
+<div style="position: relative; width: 100vw; left: 70%; right: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box; background: transparent;">
   <div style="max-width: 1100px; margin: 0 auto;">
     <iframe
       src="{{ site.baseurl }}/img/durant_curry_league_bar.html"
