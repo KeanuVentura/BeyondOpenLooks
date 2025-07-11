@@ -78,10 +78,10 @@ There are many nba shooters in the league...
 
 ### 2024-25 Season: Shooting Metrics Durant vs Curry vs NBA League Average
 
-<div style="width: 100vw; position: relative; left: 50%; margin-left: -50vw; padding: 2rem 1rem; box-sizing: border-box;">
+<div style="width: 100vw; position: relative; left: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box;">
   <iframe
     src="{{ site.baseurl }}/img/durant_curry_league_bar.html"
-    style="display: block; margin: 0 auto; width: 95%; height: 700px; border: none;"
+    style="display: block; margin: 0 auto; max-width: 1000px; width: 100%; height: 700px; border: none;"
     title="Durant vs Curry vs League Averages">
   </iframe>
 </div>
