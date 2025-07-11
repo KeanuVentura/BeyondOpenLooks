@@ -79,11 +79,11 @@ There are many nba shooters in the league...
 </div>
 
 
-### Kevin Durant Game Highlights
+### Shooters Outperforming Shot Quality Metrics
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
   <iframe 
-    src="https://www.youtube.com/embed/FJL6cG9QoFU" 
+    src="https://www.youtube.com/watch?v=YeFOnKEX8hU" 
     frameborder="0" 
     allowfullscreen 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
