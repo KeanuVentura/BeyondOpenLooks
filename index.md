@@ -29,11 +29,11 @@ There are many nba shooters in the league...
 ### 2024-25 Season: Shot Quality vs Actual eFG% and Gap for Selected Players 
 
 <div style="width: 100vw; position: relative; left: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box;">
-  <iframe
-    src="{{ site.baseurl }}/img/all_players_bar.html"
-    style="display: block; margin: 0 auto; max-width: 1000px; width: 100%; height: 700px; border: none;"
-    title="Interactive Shot Quality Plot">
-  </iframe>
+  <img 
+    src="{{ site.baseurl }}/img/cleaned_preview.jpg" 
+    alt="Cleaned Data Preview" 
+    style="display: block; margin: 0 auto; max-width: 1000px; width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;"
+  >
 </div>
 
 <div style="width: 100vw; position: relative; left: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box;">
