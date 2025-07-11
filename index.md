@@ -18,7 +18,11 @@ There are many nba shooters in the league...
 
 
 <div style="text-align:center; margin: 2rem 0;">
-  <img src="{{ site.baseurl }}/img/cleaned_preview.jpg" alt="Cleaned Data Preview" style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;">
+  <img 
+    src="{{ site.baseurl }}/img/cleaned_preview.jpg" 
+    alt="Cleaned Data Preview" 
+    style="max-width: 90vw; height: auto; border: 1px solid #ccc; border-radius: 8px;"
+  >
 </div>
 
 
