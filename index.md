@@ -17,12 +17,8 @@ There are many nba shooters in the league...
 
 
 
-<div style="width: 100vw; position: relative; left: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box;">
-  <iframe
-    src="{{ site.baseurl }}/img/cleaned_df_preview.html"
-    style="display: block; margin: 0 auto; max-width: 1000px; width: 100%; height: 500px; border: none;"
-    title="Cleaned DataFrame Preview">
-  </iframe>
+<div style="text-align:center; margin: 2rem 0;">
+  <img src="{{ site.baseurl }}/img/cleaned_preview.jpg" alt="Cleaned Data Preview" style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;">
 </div>
 
 
