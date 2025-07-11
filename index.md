@@ -18,7 +18,7 @@ There are many nba shooters in the league...
 
 
 
-The factors that contribute to shot quality: 
+#### Factors that Contribute to Shot Quality: 
 
 - Shot Distance – Closer shots tend to be higher quality.
 - Shot Angle / Location – Straightaway vs. corner; paint vs. perimeter.
@@ -31,6 +31,11 @@ The factors that contribute to shot quality:
 - Possession Type – e.g., transition, offensive rebound, turnover, etc.
 - Shot Context – Whether it was a putback or secondary opportunity.
 - Game Type – Regular season vs. playoffs.
+
+#### What's NOT Taken Into Account:
+
+- Shooter identity or reputation - Shot Quality is blind to who takes the shot.
+- Whether the shot went in – Only the shot's characteristics matter, not the outcome.
 
 
 ### Cleaned Dataframe: Advanced Shooting Metrics per Game by Season for Selected Players
