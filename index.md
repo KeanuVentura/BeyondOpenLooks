@@ -15,7 +15,7 @@ There are many nba shooters in the league...
 
 **Are prolific scorers like Kevin Durant, Stephen Curry, and Klay Thompson elite shooters because they get great looks, or because they consistently make tough shots and outperform shot quality metrics?**
 
-### Preview of Cleaned Dataframe Containing Advanced Shooting Metrics by Season for Selected Players
+### Cleaned Dataframe: Advanced Shooting Metrics by Season for Selected Players
 
 <div style="width: 100vw; position: relative; left: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box;">
   <img 
