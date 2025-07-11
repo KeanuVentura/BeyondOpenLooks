@@ -17,6 +17,14 @@ There are many nba shooters in the league...
 
 
 
+<div style="overflow-x: auto; padding: 1rem 0;">
+  <iframe
+    src="{{ site.baseurl }}/img/cleaned_preview.html"
+    style="width: 100%; max-width: 1000px; height: 300px; border: none;"
+    title="Cleaned DataFrame Preview">
+  </iframe>
+</div>
+
 
 ### 2024-25 Season: Shot Quality vs Actual eFG% and Gap for Selected Players 
 
