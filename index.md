@@ -88,12 +88,14 @@ words words
 
 ### Kevin Durant vs Kuzma: Shooting Metrics Radar for 2024-25 Season
 
-<div style="width: 100vw; position: relative; left: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box; overflow: hidden;">
-  <iframe
-    src="{{ site.baseurl }}/img/durant_kuzma_radar.html"
-    style="display: block; margin: 0 auto; max-width: 1000px; width: 100%; height: 750px; border: none;"
-    title="Interactive Shot Quality Plot">
-  </iframe>
+<div style="position: relative; width: 100vw; left: 50%; right: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box; background: transparent; overflow: hidden;">
+  <div style="max-width: 1000px; margin: 0 auto;">
+    <iframe
+      src="{{ site.baseurl }}/img/durant_kuzma_radar.html"
+      style="display: block; width: 100%; height: 750px; border: none;"
+      title="Interactive Shot Quality Plot">
+    </iframe>
+  </div>
 </div>
 
 ### 2024-25 Season: Shooting Metrics Durant vs Curry vs NBA League Average
@@ -101,7 +103,7 @@ words words
 <div style="max-width: 1100px; margin: 2rem auto; padding: 0 1rem;">
   <iframe
     src="{{ site.baseurl }}/img/durant_curry_league_bar.html"
-    style="display: block; width: 100%; height: 700px; border: none;"
+    style="display: block; width: 100%; height: 750px; border: none;"
     title="Durant vs Curry vs League Averages">
   </iframe>
 </div>
