@@ -110,7 +110,7 @@ words words
   </div>
 </div>
 
-### Shot Difficulty in Motion: Visualizing Shooters Outperforming Shot Quality Metrics
+### Shot Difficulty in Motion: Visualize Shooters Outperforming Shot Quality Metrics
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
   <iframe 
