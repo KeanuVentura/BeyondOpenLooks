@@ -88,7 +88,7 @@ words words
 
 ### Kevin Durant vs Kuzma: Shooting Metrics Radar for 2024-25 Season
 
-<div style="position: relative; width: 100vw; left: 50%; right: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box; background: transparent; overflow: hidden;">
+<div style="position: relative; width: 100vw; left: 60%; right: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box; background: transparent; overflow: hidden;">
   <div style="max-width: 1000px; margin: 0 auto;">
     <iframe
       src="{{ site.baseurl }}/img/durant_kuzma_radar.html"
