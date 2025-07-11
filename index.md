@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: "Beyond Open Looks"
 author: Keanu Ventura
 permalink: /
