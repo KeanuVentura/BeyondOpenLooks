@@ -10,6 +10,8 @@ background: /img/header.jpg
 
 ### by: Keanu Ventura
 
+> I want to see how this looks for this theme
+
 introduction sentence to set up my question. Which leads me to explore the following question:
 
 #### Are prolific scorers like Kevin Durant, Stephen Curry, and Klay Thompson elite shooters because they get great looks, or because they consistently make tough shots and outperform shot quality metrics?
