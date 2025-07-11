@@ -21,7 +21,7 @@ There are many nba shooters in the league...
   <img 
     src="{{ site.baseurl }}/img/cleaned_preview.jpg" 
     alt="Cleaned Data Preview" 
-    style="display: block; margin: 0 auto; max-width: 1000px; width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;"
+    style="display: block; margin: 0 auto; max-width: 1100px; width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;"
   >
 </div>
 
