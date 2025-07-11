@@ -100,12 +100,14 @@ words words
 
 ### 2024-25 Season: Shooting Metrics Durant vs Curry vs NBA League Average
 
-<div style="max-width: 1100px; margin: 2rem auto; padding: 0 1rem;">
-  <iframe
-    src="{{ site.baseurl }}/img/durant_curry_league_bar.html"
-    style="display: block; width: 100%; height: 750px; border: none;"
-    title="Durant vs Curry vs League Averages">
-  </iframe>
+<div style="position: relative; width: 100vw; left: 60%; right: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box; background: transparent;">
+  <div style="max-width: 1100px; margin: 0 auto;">
+    <iframe
+      src="{{ site.baseurl }}/img/durant_curry_league_bar.html"
+      style="display: block; width: 100%; height: 750px; border: none;"
+      title="Durant vs Curry vs League Averages">
+    </iframe>
+  </div>
 </div>
 
 ### Shot Difficulty in Motion: Visualize Shooters Outperforming Shot Quality Metrics
