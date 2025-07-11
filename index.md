@@ -13,12 +13,11 @@ background: /img/header.jpg
 There are many nba shooters in the league...
 ...Which leads me to answer the following question:
 
-**Are prolific scorers like Kevin Durant, Stephen Curry, and Klay Thompson elite shooters because they get great looks, or because they consistently make tough shots and outperform shot quality metrics?**
+#### Are prolific scorers like Kevin Durant, Stephen Curry, and Klay Thompson elite shooters because they get great looks, or because they consistently make tough shots and outperform shot quality metrics?
 
+words words
 
-
-
-#### Factors that Contribute to Shot Quality: 
+#### Factors that Contribute to Shot Quality:
 
 - Shot Distance – Closer shots tend to be higher quality.
 - Shot Angle / Location – Straightaway vs. corner; paint vs. perimeter.
@@ -37,6 +36,7 @@ There are many nba shooters in the league...
 - Shooter identity or reputation - Shot Quality is blind to who takes the shot.
 - Whether the shot went in – Only the shot's characteristics matter, not the outcome.
 
+words words
 
 ### Cleaned Dataframe: Advanced Shooting Metrics per Game by Season for Selected Players
 
