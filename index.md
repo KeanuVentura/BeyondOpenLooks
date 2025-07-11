@@ -63,7 +63,7 @@ There are many nba shooters in the league...
 <div style="width: 100vw; position: relative; left: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box; overflow: hidden;">
   <iframe
     src="{{ site.baseurl }}/img/durant_kuzma_radar.html"
-    style="display: block; margin: 0 auto; max-width: 1000px; width: 100%; height: 700px; border: none;"
+    style="display: block; margin: 0 auto; max-width: 1000px; width: 100%; height: 750px; border: none;"
     title="Interactive Shot Quality Plot">
   </iframe>
 </div>
