@@ -8,7 +8,10 @@ background: /img/header.jpg
 
 # What Makes an NBA Shooter Elite? 
 
-introduction sentence to set up my question. Which leads me to explore the following question:
+We often hear certain players get labeled as elite shooters — but what does that actually mean? Is it their ability to put up high scoring games? Or their ability
+to score consistently while being efficient? Maybe its the types of shots they put up - wide open catch and shoot looks versus step back threes with a hand in their face. As fans of the game, we celebrate the KD's, the Stephs, the Klays of the league, however, what really separates them from your average NBA shooter. 
+
+Which leads me to explore the following question:
 
 #### Are prolific scorers like Kevin Durant, Stephen Curry, and Klay Thompson elite shooters because they get great looks, or because they consistently make tough shots and outperform shot quality metrics?
 
