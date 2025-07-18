@@ -9,13 +9,21 @@ background: /img/header.jpg
 # What Makes an NBA Shooter Elite? 
 
 We often hear certain players get labeled as elite shooters — but what does that actually mean? Is it their ability to put up high scoring games? Or their ability
-to score consistently while being efficient? Maybe its the types of shots they put up - wide open catch and shoot looks versus step back threes with a hand in their face. As fans of the game, we celebrate the KD's, the Stephs, the Klays of the league, however, what really separates them from your average NBA shooter. 
+to score consistently while being efficient? Maybe its the types of shots they put up - wide open catch and shoot looks versus step back threes with a hand in their face. As fans of the game, we celebrate the KD's, the Stephs, the Klays of the league, however, what really separates them from your average NBA shooter. Is it something we can actually measure, or is there more to it than the numbers can tell us?
 
 Which leads me to explore the following question:
 
 #### Are prolific scorers like Kevin Durant, Stephen Curry, and Klay Thompson elite shooters because they get great looks, or because they consistently make tough shots and outperform shot quality metrics?
 
-words words
+To get closer to an answer, I’m going to examine per game shooting metrics from this past season (2024–25) for a range of players we typically label as elite, average, or below-average shooters. I’ve already selected Kevin Durant, Stephen Curry, and Klay Thompson as the elite tier. Tobias Harris and Jordan Poole represent middle of the pack scorers, while Josh Giddey and Kyle Kuzma are often considered as players with poor shooting abilities. 
+
+I will be analyzing the following per game metrics:
+
+- Proportion of unassisted points – how often players create their own shot.
+- True Shooting Percentage (TS%) – a measure that adjusts for three-pointers and free throws to give a better sense of efficiency.
+- Effective Field Goal Percentage (eFG%) – similar to regular FG%, but gives more weight to three-pointers.
+- Shot Quality – this one’s a bit more complex, but arguably the most important.
+
 
 #### Factors that Contribute to Shot Quality:
 
