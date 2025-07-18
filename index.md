@@ -19,10 +19,14 @@ To get closer to an answer, I’m going to examine per game shooting metrics fro
 
 I will be analyzing the following per game metrics:
 
-- Proportion of unassisted points – how often players create their own shot.
-- True Shooting Percentage (TS%) – a measure that adjusts for three-pointers and free throws to give a better sense of efficiency.
+- Proportion of unassisted points (%UAST_Pts) – how often players score off of shots they created themselves.
+- True Shooting Percentage (TS%) – a scoring efficency measure that accounts for free throws.
 - Effective Field Goal Percentage (eFG%) – similar to regular FG%, but gives more weight to three-pointers.
 - Shot Quality – this one’s a bit more complex, but arguably the most important.
+
+#### What is Shot Quality?
+
+In essence, Shot Quality is a measure of how good a shot was. It provides an estimate of how likely it is for a shot to go in, based on a range of context and conditions. Things such as how far the shot, how close the defender, how much time on the shot clock, etc. It's easier to look at shot quality as a representation of the expected eFG%. It's important to note that shot quality does not consider the outcome of the shot but focuses purely on the process. By analyzing shot quality and viewing it as a players expected eFG%, we can compare it with a players actual eFG% to determine whether or not they are outperforming the quality of looks they get - essentially, whether they’re making tougher shots than expected or simply benefiting from great opportunities. To better understand what shot quality captures and ignores, I've broken it down below.
 
 
 #### Factors that Contribute to Shot Quality:
