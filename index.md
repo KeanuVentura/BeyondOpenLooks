@@ -8,8 +8,7 @@ background: /img/header.jpg
 
 # What Makes an NBA Shooter Elite?
 
-We often hear certain players get labeled as elite shooters — but what does that actually mean? Is it their ability to put up high-scoring games? Or their ability
-to score consistently while being efficient? Maybe it's the types of shots they put up - wide open catch-and-shoot looks versus step-back threes with a hand in their face. As fans of the game, we celebrate the KD's, the Stephs, the Klays of the league; however, what really separates them from your average NBA shooter? Is it something we can actually measure, or is there more to it than the numbers can tell us?
+We often hear certain players get labeled as elite shooters — but what does that actually mean? Is it their ability to put up high-scoring games? Or their ability to score consistently while being efficient? Maybe it's the types of shots they put up - wide open catch-and-shoot looks versus step-back threes with a hand in their face. As fans of the game, we celebrate the KD's, the Stephs, the Klays of the league; however, what really separates them from your average NBA shooter? Is it something we can actually measure, or is there more to it than the numbers can tell us?
 
 Which leads me to explore the following question:
 
@@ -44,7 +43,7 @@ In essence, Shot Quality is a measure of how good a shot was. It provides an est
 
 #### What's NOT Taken Into Account:
 
-- Shooter identity or reputation - Shot Quality is blind to who takes the shot.
+- Shooter identity or reputation – Shot Quality is blind to who takes the shot.
 - Whether the shot went in – Only the shot's characteristics matter, not the outcome.
 
 ### Cleaned Dataframe: Advanced Shooting Metrics per Game by Season for Selected Players
@@ -83,16 +82,16 @@ To begin exploring how these metrics play out in practice, I first focused on th
   <iframe
     src="{{ site.baseurl }}/img/all_players_bar.html"
     style="display: block; margin: 0 auto; max-width: 1000px; width: 100%; height: 700px; border: none;"
-    title="Interactive Shot Quality Plot">
-  </iframe>
+    title="Interactive Shot Quality Plot"
+  ></iframe>
 </div>
 
 <div style="width: 100vw; position: relative; left: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box;">
   <iframe
     src="{{ site.baseurl }}/img/all_players_scatter.html"
     style="display: block; margin: 0 auto; max-width: 1000px; width: 100%; height: 700px; border: none;"
-    title="Interactive Shot Quality Plot">
-  </iframe>
+    title="Interactive Shot Quality Plot"
+  ></iframe>
 </div>
 
 ### Klay Thompson: Shot Quality vs Actual eFG% and Gap Over the Last 5 Seasons Played
@@ -106,39 +105,37 @@ To begin exploring how these metrics play out in practice, I first focused on th
   ></iframe>
 </div>
 
-
 ### 2024-25 Season: Self Created Shots vs TS% for Selected Players
 
 <div style="width: 100vw; position: relative; left: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box;">
   <iframe
     src="{{ site.baseurl }}/img/self_created_scatter.html"
     style="display: block; margin: 0 auto; max-width: 1000px; width: 100%; height: 700px; border: none;"
-    title="Interactive Shot Quality Plot">
-  </iframe>
+    title="Self Created Shots vs TS%"
+  ></iframe>
 </div>
-
 
 ### Kevin Durant vs Kuzma: Shooting Metrics Radar for 2024-25 Season
 
-<div style="position: relative; width: 100vw; left: 60%; right: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box; background: transparent; overflow: hidden;">
+<div style="position: relative; width: 100vw; left: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box; background: transparent; overflow: hidden;">
   <div style="max-width: 1000px; margin: 0 auto;">
     <iframe
       src="{{ site.baseurl }}/img/durant_kuzma_radar.html"
       style="display: block; width: 100%; height: 750px; border: none;"
-      title="Interactive Shot Quality Plot">
-    </iframe>
+      title="Kevin Durant vs Kyle Kuzma Radar"
+    ></iframe>
   </div>
 </div>
 
 ### 2024-25 Season: Shooting Metrics Durant vs Curry vs NBA League Average
 
-<div style="position: relative; width: 100vw; left: 70%; right: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box; background: transparent;">
+<div style="position: relative; width: 100vw; left: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box; background: transparent;">
   <div style="max-width: 1100px; margin: 0 auto;">
     <iframe
       src="{{ site.baseurl }}/img/durant_curry_league_bar.html"
       style="display: block; width: 100%; height: 750px; border: none;"
-      title="Durant vs Curry vs League Averages">
-    </iframe>
+      title="Durant vs Curry vs NBA League Average"
+    ></iframe>
   </div>
 </div>
 
