@@ -10,7 +10,8 @@ A data-driven exploration of NBA shot creation and efficiency, focusing on shot 
 - Self-creation metrics comparison (e.g., %Unassisted Points vs TS%)
 - Radar charts comparing players like Kevin Durant, Stephen Curry, and more
 - League average benchmarks vs elite scorers
+- Media visualization of shot quality metrics being outperformed
 
 ## Data Sources
-- [nba_api](https://github.com/swar/nba_api) for player shooting data
-- League averages sourced from [Basketball Reference](https://www.basketball-reference.com/)
+- [pbp_stats](https://www.pbpstats.com/) for player shooting data
+- League averages sourced from [nba_advanced_stats](https://www.nba.com/stats)
