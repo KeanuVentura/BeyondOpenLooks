@@ -49,7 +49,7 @@ In essence, Shot Quality is a measure of how good a shot was. It provides an est
 
 ### Cleaned Dataframe: Advanced Shooting Metrics per Game by Season for Selected Players
 
-Now that I have introduced the advanced shooting metrics and defined the Shot Quality metric, I prepared my data for analysis by creating a dataframe. I collected the data from [pbpstats](https://www.pbpstats.com/) and cleaned it to include only the stats I needed. Each row represents a player in a given season, while the columns hold per-game stats that can be used to better understand a player's scoring abilities:
+Now that I have introduced the advanced shooting metrics and defined the Shot Quality metric, I prepared my data for analysis by creating a dataframe. I collected the data from [pbp_stats](https://www.pbpstats.com/) and cleaned it to include only the stats I needed. Each row represents a player in a given season, while the columns hold per-game stats that can be used to better understand a player's scoring abilities:
 
 - Player – the name of the player.
 - Season – the NBA season the stats correspond to.
@@ -77,7 +77,7 @@ A preview of the cleaned dataframe is shown below, giving a snapshot of the play
 
 ### 2024-25 Season: Shot Quality vs Actual eFG% and Gap for Selected Players 
 
-To begin exploring how these metrics play out in practice, I first focused on the most recent season (2024-2025), creating visualizations to compare the selected players' expected shooting outcomes with their actual shooting performance. The first visualization I created was a bar graph with the players on the x-axis and eFG% on the y-axis. For each player there are three bars: on representing their expected eFG% (Shot_Quality), one displaying their actual eFG%, and the last one illustrating the gap between the two. This layout allows us to see which players are outperforming their shot quality (positive gap) or underperforming it (negative gap).
+To begin exploring how these metrics play out in practice, I first focused on the most recent season (2024-2025), creating visualizations to compare the selected players' expected shooting outcomes with their actual shooting performance. The first visualization I created was a bar graph with the players on the x-axis and eFG% on the y-axis. For each player there are three bars: one representing their expected eFG% (Shot_Quality), one displaying their actual eFG%, and the last one illustrating the gap between the two. This layout allows us to see which players are outperforming their shot quality (positive gap) or underperforming it (negative gap).
 
 <div style="width: 100vw; position: relative; left: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box;">
   <iframe
