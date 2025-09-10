@@ -9,7 +9,7 @@ background: /img/header.jpg
 # What Makes an NBA Shooter Elite?
 
 We often hear certain players get labeled as elite shooters — but what does that actually mean? Is it their ability to put up high-scoring games? Or their ability
-to score consistently while being efficient? Maybe it's the types of shots they put up - wide open catch and shoot looks versus step back threes with a hand in their face. As fans of the game, we celebrate the KD's, the Stephs, the Klays of the league; however, what really separates them from your average NBA shooter? Is it something we can actually measure, or is there more to it than the numbers can tell us?
+to score consistently while being efficient? Maybe it's the types of shots they put up - wide open catch-and-shoot looks versus step-back threes with a hand in their face. As fans of the game, we celebrate the KD's, the Stephs, the Klays of the league; however, what really separates them from your average NBA shooter? Is it something we can actually measure, or is there more to it than the numbers can tell us?
 
 Which leads me to explore the following question:
 
@@ -49,7 +49,7 @@ In essence, Shot Quality is a measure of how good a shot was. It provides an est
 
 ### Cleaned Dataframe: Advanced Shooting Metrics per Game by Season for Selected Players
 
-Now that I have introduced the advanced shooting metrics and defined the Shot Quality metric, I prepared the data I analyzed by creating a dataframe. I collected the data from [pbp_stats](https://www.pbpstats.com/) and cleaned it to include only the stats I needed. Each row represents a player in a given season while the columns hold per-game stats that can be used to better understand the players scoring abilities:
+Now that I have introduced the advanced shooting metrics and defined the Shot Quality metric, I prepared my data for analysis by creating a dataframe. I collected the data from [pbpstats](https://www.pbpstats.com/) and cleaned it to include only the stats I needed. Each row represents a player in a given season, while the columns hold per-game stats that can be used to better understand a player's scoring abilities:
 
 - Player – the name of the player.
 - Season – the NBA season the stats correspond to.
@@ -76,6 +76,8 @@ A preview of the cleaned dataframe is shown below, giving a snapshot of the play
 </div>
 
 ### 2024-25 Season: Shot Quality vs Actual eFG% and Gap for Selected Players 
+
+To begin exploring how these metrics play out in practice, I first focused on the most recent season (2024-2025), creating visualizations to compare the selected players' expected shooting outcomes with their actual shooting performance. The first visualization I created was a bar graph with the players on the x-axis and eFG% on the y-axis. For each player there are three bars: on representing their expected eFG% (Shot_Quality), one displaying their actual eFG%, and the last one illustrating the gap between the two. This layout allows us to see which players are outperforming their shot quality (positive gap) or underperforming it (negative gap).
 
 <div style="width: 100vw; position: relative; left: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box;">
   <iframe
