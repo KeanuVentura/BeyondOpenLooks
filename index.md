@@ -6,28 +6,27 @@ permalink: /
 background: /img/header.jpg
 ---
 
-# What Makes an NBA Shooter Elite? 
+# What Makes an NBA Shooter Elite?
 
-We often hear certain players get labeled as elite shooters — but what does that actually mean? Is it their ability to put up high scoring games? Or their ability
-to score consistently while being efficient? Maybe its the types of shots they put up - wide open catch and shoot looks versus step back threes with a hand in their face. As fans of the game, we celebrate the KD's, the Stephs, the Klays of the league, however, what really separates them from your average NBA shooter. Is it something we can actually measure, or is there more to it than the numbers can tell us?
+We often hear certain players get labeled as elite shooters — but what does that actually mean? Is it their ability to put up high-scoring games? Or their ability
+to score consistently while being efficient? Maybe it's the types of shots they put up - wide open catch and shoot looks versus step back threes with a hand in their face. As fans of the game, we celebrate the KD's, the Stephs, the Klays of the league; however, what really separates them from your average NBA shooter. Is it something we can actually measure, or is there more to it than the numbers can tell us?
 
 Which leads me to explore the following question:
 
 #### Are prolific scorers like Kevin Durant, Stephen Curry, and Klay Thompson elite shooters because they get great looks, or because they consistently make tough shots and outperform shot quality metrics?
 
-To get closer to an answer, I’m going to examine per game shooting metrics from this past season (2024–25) for a range of players we typically label as elite, average, or below-average shooters. I’ve already selected Kevin Durant, Stephen Curry, and Klay Thompson as the elite tier. Tobias Harris and Jordan Poole represent middle of the pack scorers, while Josh Giddey and Kyle Kuzma are often considered as players with poor shooting abilities. 
+To get closer to an answer, I’m going to examine per-game shooting metrics from this past season (2024–25) for a range of players we typically label as elite, average, or below-average shooters. I’ve already selected Kevin Durant, Stephen Curry, and Klay Thompson as the elite tier. Tobias Harris and Jordan Poole represent middle-of-the-pack scorers, while Josh Giddey and Kyle Kuzma are often considered as players with poor shooting abilities.
 
-I will be analyzing the following per game metrics:
+I will be analyzing the following per-game metrics:
 
 - Proportion of unassisted points (%UAST_Pts) – how often players score off of shots they created themselves.
-- True Shooting Percentage (TS%) – a scoring efficency measure that accounts for free throws.
+- True Shooting Percentage (TS%) – a scoring efficiency measure that accounts for free throws.
 - Effective Field Goal Percentage (eFG%) – similar to regular FG%, but gives more weight to three-pointers.
 - Shot Quality – this one’s a bit more complex, but arguably the most important.
 
 #### What is Shot Quality?
 
-In essence, Shot Quality is a measure of how good a shot was. It provides an estimate of how likely it is for a shot to go in, based on a range of context and conditions. Things such as how far the shot, how close the defender, how much time on the shot clock, etc. It's easier to look at shot quality as a representation of the expected eFG%. It's important to note that shot quality does not consider the outcome of the shot but focuses purely on the process. By analyzing shot quality and viewing it as a players expected eFG%, we can compare it with a players actual eFG% to determine whether or not they are outperforming the quality of looks they get - essentially, whether they’re making tougher shots than expected or simply benefiting from great opportunities. To better understand what shot quality captures and ignores, I've broken it down below.
-
+In essence, Shot Quality is a measure of how good a shot was. It provides an estimate of the likelihood of a shot going in, based on a range of contextual and environmental conditions. Factors such as the distance of the shot, the proximity of the defender, the amount of time on the shot clock, etc. It's easier to look at shot quality as a representation of the expected eFG%. It's important to note that shot quality does not consider the outcome of the shot but focuses purely on the process. By analyzing shot quality and viewing it as a player's expected eFG%, we can compare it with a player's actual eFG% to determine whether or not they are outperforming the quality of looks they get - essentially, whether they’re making tougher shots than expected or simply benefiting from great opportunities. To better understand what shot quality captures and ignores, I've broken it down below.
 
 #### Factors that Contribute to Shot Quality:
 
@@ -40,7 +39,7 @@ In essence, Shot Quality is a measure of how good a shot was. It provides an est
 - Score Differential – Game situation can impact shot value.
 - Assisted vs. Unassisted – Assisted shots often lead to more open looks.
 - Possession Type – e.g., transition, offensive rebound, turnover, etc.
-- Shot Context – Whether it was a putback or secondary opportunity.
+- Shot Context – Whether it was a putback or a secondary opportunity.
 - Game Type – Regular season vs. playoffs.
 
 #### What's NOT Taken Into Account:
@@ -48,7 +47,7 @@ In essence, Shot Quality is a measure of how good a shot was. It provides an est
 - Shooter identity or reputation - Shot Quality is blind to who takes the shot.
 - Whether the shot went in – Only the shot's characteristics matter, not the outcome.
 
-words words
+
 
 ### Cleaned Dataframe: Advanced Shooting Metrics per Game by Season for Selected Players
 
