@@ -76,7 +76,7 @@ A preview of the cleaned dataframe is shown below, giving a snapshot of the play
 
 ### 2024-25 Season: Shot Quality vs Actual eFG% and Gap for Selected Players 
 
-To begin exploring how these metrics play out in practice, I first focused on the most recent season (2024-2025), creating visualizations to compare the selected players' expected shooting outcomes with their actual shooting performance. The first visualization I created was a bar graph with the players on the x-axis and eFG% on the y-axis. For each player there are three bars: one representing their expected eFG% (Shot_Quality), one displaying their actual eFG%, and the last one illustrating the gap between the two. This layout allows us to see which players are outperforming their shot quality (positive gap) or underperforming it (negative gap).
+To begin exploring how these metrics play out in practice, I first focused on the most recent season (2024-2025), creating visualizations to compare the selected players' expected shooting outcomes with their actual shooting performance. The first visualization I created was a bar graph with the players on the x-axis and eFG% on the y-axis. For each player there are three bars: one representing their expected eFG% (Shot Quality), one displaying their actual eFG%, and the last one illustrating the gap between the two. This layout allows us to see which players are outperforming their shot quality (positive gap) or underperforming it (negative gap).
 
 <div style="width: 100vw; position: relative; left: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box;">
   <iframe
