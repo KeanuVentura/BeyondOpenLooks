@@ -86,6 +86,10 @@ To begin exploring how these metrics play out in practice, I first focused on th
   ></iframe>
 </div>
 
+By examining the bar graph above, it is evident that only Kevin Durant and Steph Curry exceeded their expected shooting metrics, with all other players slightly over performing their shot quality or falling short. Interestingly, Klay Thompson, who I initally categorized as an elite shooter, displays only a tiny positive gap in comparison to the elite tier players. This indicates that Kla Thompson's actual eFG% barely surpasses what his shot quality would predict. His gap also ended up to be even smaller than Tobias Harris', suggesting that, despite his reputation as an elite shooter, Thompson’s scoring in this past season wasn't very reliant on his ability to consistently make shots above expectation. Of course, this may not reflect Klay Thompson's career-long shooting ability as this small gap is specific to his performance in the 2024-2025 season, so to get a clearer picture, I'll later examine the same metrics for Klay over the last five seasons. 
+
+As expected, Josh Giddey and Kyle Kuzma clearly fall into the below-average shooting tier as they consistently underperform their shot quality. Their evident negative gaps portray tht they struggle to convert favorable opportunites whereas an elite shooter would capitalize on them.
+
 <div style="width: 100vw; position: relative; left: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box;">
   <iframe
     src="{{ site.baseurl }}/img/all_players_scatter.html"
