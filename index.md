@@ -116,7 +116,9 @@ Revisiting Klay Thompsons shooting performance, I created a bar graph similar to
 
 Examining the graph, it becomes clear that the 2024-2025 season is indeed an outlier in Klay Thompsons shooting performance throughout his career. The large positive gap between his actual eFG% and expected eFG% illustrate an evident sudden decline in his ability to outperform the expected shooting outcomes of his shots in his most recent year. The visualization indicates that Klay used to regularly exceed shooting expectations and previously performed like an elite shooter. Overall, this contrast highlights that the small gap in the most recent season does not reflect his typical shooting ability, possibly suggesting that he is past his prime.
 
-### 2024-25 Season: Self Created Shots vs TS% for Selected Players
+### 2024-25 Season: Self-Created Shots vs TS% for Selected Players
+
+While the previous visualizations highlight how Kevin Durant and Steph Curry outperfrom their expected shooting metrics, it's worth considering whether their high efficiency is a result of consistently getting open looks rather than creating their own shots. After all, a player who primarily relies on wide-open catch-and-shoot opportunities can seem efficent on the stat sheet, however, they may not be classified as elite. It can be argued that elite shooters possess the skill to generate scoring chances on their own and are able to efficiently convert such difficult self-created shots. Thus, to better understand if the shooters I categorized as elite are benefiting from high-quality looks or relying on their own ability to create opportunities, I examined each selected player's rate of unassisted scoring in relation to their overall scoring efficency.
 
 <div style="width: 100vw; position: relative; left: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box;">
   <iframe
