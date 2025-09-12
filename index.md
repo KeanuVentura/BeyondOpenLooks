@@ -114,7 +114,7 @@ Revisiting Klay Thompsons shooting performance, I created a bar graph similar to
   ></iframe>
 </div>
 
-Examining the graph, it becomes clear that the 2024-2025 season is indeed an outlier in Klay Thompsons shooting performance throughout his career. There is an evident sudden decline in his ability to outperform the expected shooting outcomes of his shots as in the four previous seasons he displays a large positive gap between is actual eFG% and expected eFG%. The visualization indicates that Klay used to regularly exceed shooting expectations and previously performed like an elite shooter. Overall, this contrast highlights that the small gap in the most recent season does not reflect his typical shooting ability, possibly suggesting that he is past his prime.
+Examining the graph, it becomes clear that the 2024-2025 season is indeed an outlier in Klay Thompsons shooting performance throughout his career. The large positive gap between his actual eFG% and expected eFG% illustrate an evident sudden decline in his ability to outperform the expected shooting outcomes of his shots in his most recent year. The visualization indicates that Klay used to regularly exceed shooting expectations and previously performed like an elite shooter. Overall, this contrast highlights that the small gap in the most recent season does not reflect his typical shooting ability, possibly suggesting that he is past his prime.
 
 ### 2024-25 Season: Self Created Shots vs TS% for Selected Players
 
