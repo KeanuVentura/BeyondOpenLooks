@@ -148,18 +148,6 @@ Lastly, an insight that is surprising at first glance is the fact that Jordan Po
   </div>
 </div>
 
-### 2024-25 Season: Shooting Metrics Durant vs Curry vs NBA League Average
-
-<div style="position: relative; width: 100vw; left: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box; background: transparent;">
-  <div style="max-width: 1100px; margin: 0 auto;">
-    <iframe
-      src="{{ site.baseurl }}/img/durant_curry_league_bar.html"
-      style="display: block; width: 100%; height: 750px; border: none;"
-      title="Durant vs Curry vs NBA League Average"
-    ></iframe>
-  </div>
-</div>
-
 ### Shot Difficulty in Motion: Visualize Shooters Outperforming Shot Quality Metrics
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
