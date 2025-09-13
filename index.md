@@ -138,7 +138,7 @@ Lastly, an insight that is surprising at first glance is the fact that Jordan Po
 
 ### Kevin Durant vs Kuzma: Shooting Metrics Radar for 2024-25 Season
 
-Now that we have successfully identified Kevin Durant as an elite shooter, I created final comparison using a radar chart that overlays Kevin Durant's shooting metrics with Kyle Kuzma's. The following visualization will highlight the contrast between an elite shooter and a below average one, illustrating the clear differences in efficiency, shot quality, accuracy, and scoring profile.
+Now that we have successfully identified Kevin Durant as an elite shooter, I created a final comparison using a radar chart that overlays Kevin Durant's shooting metrics with Kyle Kuzma's. The following visualization will highlight the contrast between an elite shooter and a below-average one, illustrating the clear differences in efficiency, shot quality, accuracy, and scoring profile.
 
 <div style="position: relative; width: 100vw; left: 50%; margin-left: -50vw; padding: 2rem 0; box-sizing: border-box; background: transparent; overflow: hidden;">
   <div style="max-width: 1000px; margin: 0 auto;">
@@ -149,6 +149,8 @@ Now that we have successfully identified Kevin Durant as an elite shooter, I cre
     ></iframe>
   </div>
 </div>
+
+As determined earlier, an elite shooter is defined by their ability to efficiently convert difficult shots while also creating their own. The radar chart provides a clear distinction as Kevin Durant's metrics extend outward across efficiency and shot creation while Kyle Kuzma's profile remains far more constrained. Notably, shot quality is the only metric where Kuzma's profile extends farther outward then Durant's, highlighting that Durant consistently takes tougher looks yet still outperforms Kuzma in both efficiency and accuracy. This evident contrast reinforces Durant's status as an elite shooter.
 
 ### Shot Difficulty in Motion: Visualize Shooters Outperforming Shot Quality Metrics
 
