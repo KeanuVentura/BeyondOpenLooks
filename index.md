@@ -158,9 +158,11 @@ In summation, while the question of whether an NBA player's shooting ability can
 
 Prolific scorers like Kevin Durant and Stephen Curry exemplify elite shooters because they possess the ability to outperform their expected efficiency despite consistently taking difficult shots, all while creating a significant portion of those opportunities themselves. In contrast, players like Klay Thompson in the 2024-2025 season demonstrate that relying heavily on assisted looks and not exceeding their expected shot quality can limit a player's classification as an elite shooter. Similary, below-average shooters such as Kyle Kuzma and Josh Giddey often fail to capitalize on high-quality looks, often underperforming relative to their expected shot quality. This further reinforces that the ability to consistently convert open looks is essential for being at least an average shooter in the NBA.
 
-Ultimately, this analysis not only defines what makes a shooter elite, but also highlights the overlooked aspects of NBA scoring that traditional statistics often don't cover. It emphasizes that true shooting skill is not just about getting good looks, but about consistently outperforming expected efficiency while finding ways to do so independently. In the future, it would be interesting to expand this analysis by exploring statistical data across all NBA players to further evalute whether elite scoring truly requires looking *beyond open looks*.
+Ultimately, this analysis not only defines what makes a shooter elite, but also highlights the overlooked aspects of NBA scoring that traditional statistics often don't cover. It emphasizes that true shooting skill is not just about getting good looks, but about consistently outperforming expected efficiency while finding ways to do so independently. In the future, it would be interesting to expand this analysis by exploring statistical data across all NBA players to further evalute whether elite scoring truly requires looking **beyond open looks**.
 
 ### Shot Difficulty in Motion: Visualize Shooters Outperforming Shot Quality Metrics
+
+To complement this analyis, the media below provides real-world examples of NBA players defying the numbers by knocking down difficult shots. 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
   <iframe 
